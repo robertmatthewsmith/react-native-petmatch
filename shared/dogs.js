@@ -98,4 +98,4 @@
         image: '/img/dog-7.jpeg',
     }
 
-]
+];
